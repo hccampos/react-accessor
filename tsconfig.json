@@ -1,0 +1,17 @@
+{
+  "compilerOptions": {
+    "allowSyntheticDefaultImports": true,
+    "emitDecoratorMetadata": true,
+    "useDefineForClassFields": false,
+    "experimentalDecorators": true,
+    "isolatedModules": true,
+    "lib": ["ESNext", "DOM"],
+    "module": "ESNext",
+    "moduleResolution": "Node",
+    "noImplicitAny": true,
+    "strict": true,
+    "jsx": "react",
+    "target": "ESNext"
+  },
+  "include": ["**/*.ts", "**/*.tsx", "node_modules/@arcgis/core/**/*.d.ts"]
+}
