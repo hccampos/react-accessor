@@ -1,14 +1,13 @@
 {
   "name": "react-accessor",
-  "version": "1.0.0",
-  "description": "",
-  "main": "\"\"",
+  "version": "0.0.1",
+  "description": "WIP hooks/utils to connect React to Accessor objects from the ArcGIS JS API for Javascript.",
   "scripts": {
     "start": "vite",
     "build": "vite build",
     "types": "tsc --noEmit"
   },
-  "author": "",
+  "author": "Hugo Campos <hcampos@esri.com>",
   "license": "MIT",
   "devDependencies": {
     "@types/react-dom": "^18.0.0",
